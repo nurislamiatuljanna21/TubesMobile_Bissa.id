@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#3C91E6"
+    tools:context=".DashboardActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:text="BISSA.ID"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:layout_marginVertical="13dp"
+        />
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="143dp"
+        android:src="@drawable/washing_clothes"
+        android:contentDescription="@string/description" />
+
+    <Button
+        android:id="@+id/button_bissa"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginTop="20dp"
+        android:text="NEXT"
+        android:backgroundTint="#3C91E6"
+        />
+</LinearLayout>

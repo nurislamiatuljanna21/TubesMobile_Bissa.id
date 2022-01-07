@@ -3,8 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/drawable/shape1.xml" value="0.2169230769230769" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_dashboard.xml" value="0.18" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_layanan_cuker.xml" value="0.20416666666666666" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_layanan_culit.xml" value="0.20416666666666666" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_layanan_cuset2.xml" value="0.20416666666666666" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_layanan_setrika.xml" value="0.19010416666666666" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/layout_produk.xml" value="0.2" />
+        <entry key="..\:/MentariiAnugrah/SEMESTER 5/Pemrograman Mobile/Bissaid/app/src/main/res/layout/list_item_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_Pesanan.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_home.xml" value="0.16" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_layanan_cuker.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_layanan_culit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_layanan_cuset2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_layanan_setrika.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_main_activity2_pesanan_on_proses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_pesanan_cuker.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_pesanan_culit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_pesanan_cuset.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_pesanan_cuset2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/Downloads/Bissaid/app/src/main/res/layout/activity_pesanan_setrika.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

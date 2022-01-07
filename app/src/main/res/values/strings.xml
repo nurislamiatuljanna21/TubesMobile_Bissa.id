@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Bissa.id</string>
+    <string name="home">Home</string>
+    <string name="welcome_kelompok_e">Welcome Kelompok E</string>
+    <string name="budayakan_malas_mencuci">Budayakan Malas Mencuci</string>
+    <string name="layanan">Layanan</string>
+    <string name="setrika">Setrika</string>
+    <string name="cuci_setrika">Cuci Setrika</string>
+    <string name="cuci_kering">Cuci Kering</string>
+    <string name="cuci_lipat">Cuci Lipat</string>
+    <string name="e_mail_address">E-Mail Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="description">description</string>
+    <string name="bissa_id">Bissa.Id</string>
+    <string name="layanansetrika">Layanan</string>
+    <string name="machine">imagelogin</string>
+    <string name="layanan1">Layanan Setrika</string>
+    <string name="harga">Rp 12.000</string>
+    <string name="waktu"> 1 x 24 Jam</string>
+    <string name="berat"> Minimal 3 kg</string>
+    <string name="ongkir">Gratis ongkir</string>
+    <string name="next">Lanjutkan</string>
+    <string name="layanan2">Layanan</string>
+    <string name="layanancuker">Layanan Cuci Kering</string>
+    <string name="layanan3">Layanan</string>
+    <string name="layanancuset">Layanan Cuci Setrika</string>
+    <string name="layanan4">Layanan</string>
+    <string name="layananculit">Layanan Cuci Setrika</string>
 </resources>
